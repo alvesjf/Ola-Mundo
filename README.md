@@ -24,3 +24,16 @@ Lista Numerada
 0. Testando Terceiro
 
 Lista demaracada
+
+- I Demarcada
+- II Demaracada
+- III Demarcada
+   - Teste 01
+- IV
+
+***
+
+Lista de Tarefa
+- [x] Criar
+- [x] Criar 2
+- [] Criar 3
